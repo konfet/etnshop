@@ -1,0 +1,67 @@
+.msk-btn{
+/*	background: red; 
+	font-weight: bold; 
+	color: white;
+	border: 2px solid blue;
+	padding: 7px 7px;
+	margin-left: 10px;
+	
+	margin-top: -100px;
+	height: 50px;
+	top: 100px;*/
+		
+	}
+.msk-delete{
+	font-weight: bold; 
+	color: red;	
+}
+.msk-edit{
+	font-weight: bold; 
+	color: blue;	
+}
+#msk-table-res{ 
+    width: 80%;    
+    margin: 20px auto;    
+   }
+#msk-table-res tr:nth-child(2n) {
+    background: #D4D0C8;
+   }
+#msk-table-res tr:nth-child(1){
+	height: 30px;
+	border: 1px solid black;
+    background: #666;
+    color: #fff;  
+} 
+
+#msk-table-res td{
+	padding: 2px; 
+} 
+
+#msk-body{
+	width: 100%;
+}
+
+#msk-block-search input#msk-input-search{
+	margin:10px 5px;
+	margin-left: 100px;
+	width: 300px;  
+	height: 26px;
+	float: right;		
+}
+
+#msk-block-search input#msk-input-add{	
+ 
+	height: 26px;
+	
+}
+
+#msk-block-search{
+/*	border: 3px solid red;*/
+	width: 70%;  	
+}
+
+.msk-test{
+	/*border: 3px solid blue;*/
+	margin-top: 10px;
+	height: 50px; 
+}
